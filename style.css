@@ -3,7 +3,9 @@
     height: 150px;
     margin: 20px auto;
     padding: 30px;
-    border: 1px solid black;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -14,6 +16,6 @@ h1 {
     color:white;
     background-color: blue;
     border-color:transparent;
-    border-radius: 7%;
+    border-radius: 3px;
     width: 170px;
 }
