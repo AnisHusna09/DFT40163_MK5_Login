@@ -1,1 +1,19 @@
+.box {
+    width: 200px;
+    height: 150px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 1px solid black;
+}
 
+h1 {
+    color:blue;
+}
+
+#login {
+    color:white;
+    background-color: blue;
+    border-color:transparent;
+    border-radius: 7%;
+    width: 170px;
+}
